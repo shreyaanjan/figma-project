@@ -1,0 +1,16 @@
+@media (max-width:992px ) {
+    .features-1{
+        padding-block-start: 0 !important;
+    }
+    .features-2{
+        padding-block-start: 0 !important;
+    }
+    
+    .features-3{
+        padding-block-start: 0 !important;
+    }
+    .hero-content {
+        padding-block-start: 0 !important;
+    }
+    
+}
